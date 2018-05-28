@@ -1,0 +1,64 @@
+missing module named 'multiprocessing.forking' - imported by f:\anaconda3\lib\site-packages\PyInstaller\loader\rthooks\pyi_rth_multiprocessing.py
+missing module named multiprocessing.get_context - imported by multiprocessing, multiprocessing.pool, multiprocessing.managers, multiprocessing.sharedctypes
+missing module named multiprocessing.TimeoutError - imported by multiprocessing, multiprocessing.pool
+missing module named multiprocessing.BufferTooShort - imported by multiprocessing, multiprocessing.connection
+missing module named multiprocessing.AuthenticationError - imported by multiprocessing, multiprocessing.connection
+missing module named multiprocessing.set_start_method - imported by multiprocessing, multiprocessing.spawn
+missing module named multiprocessing.get_start_method - imported by multiprocessing, multiprocessing.spawn
+missing module named multiprocessing.SimpleQueue - imported by multiprocessing, concurrent.futures.process
+missing module named 'win32com.gen_py' - imported by win32com, f:\anaconda3\lib\site-packages\PyInstaller\loader\rthooks\pyi_rth_win32comgenpy.py
+missing module named pyimod03_importers - imported by PyInstaller.loader.pyimod02_archive, f:\anaconda3\lib\site-packages\PyInstaller\loader\rthooks\pyi_rth_pkgres.py
+missing module named 'pkg_resources.extern.pyparsing' - imported by pkg_resources._vendor.packaging.requirements, pkg_resources._vendor.packaging.markers
+missing module named __builtin__ - imported by gevent._compat, gevent.monkey, gevent.builtins, pkg_resources._vendor.pyparsing
+missing module named ordereddict - imported by pkg_resources._vendor.pyparsing
+missing module named 'com.sun' - imported by pkg_resources._vendor.appdirs
+missing module named com - imported by pkg_resources._vendor.appdirs
+missing module named StringIO - imported by PyInstaller.lib.modulegraph._compat, PyInstaller.lib.modulegraph.zipio, pkg_resources._vendor.six
+missing module named _scproxy - imported by urllib.request
+missing module named 'macholib.compat' - imported by macholib.MachO
+missing module named _pkgutil - imported by PyInstaller.lib.modulegraph.modulegraph
+missing module named xdis - imported by PyInstaller.lib.modulegraph._compat
+missing module named dis3 - imported by PyInstaller.lib.modulegraph._compat
+missing module named urllib.pathname2url - imported by urllib, PyInstaller.lib.modulegraph._compat
+missing module named pyimod00_crypto_key - imported by PyInstaller.loader.pyimod02_archive
+missing module named thread - imported by PyInstaller.loader.pyimod02_archive, gevent.lock, gevent.thread
+missing module named 'win32ctypes.pywin32' - imported by PyInstaller.compat
+missing module named win32ctypes - imported by PyInstaller.compat
+missing module named UserDict - imported by PyInstaller.compat
+missing module named pkg_resources.extern.packaging - imported by pkg_resources.extern, pkg_resources
+missing module named pkg_resources.extern.appdirs - imported by pkg_resources.extern, pkg_resources
+missing module named 'pkg_resources.extern.six.moves' - imported by pkg_resources, pkg_resources._vendor.packaging.requirements
+missing module named pkg_resources.extern.six - imported by pkg_resources.extern, pkg_resources
+missing module named resource - imported by posix, E:\PyCharm-workspace\Wiki\Period\Period.py
+missing module named posix - imported by os, E:\PyCharm-workspace\Wiki\Period\Period.py
+missing module named _posixsubprocess - imported by subprocess, multiprocessing.util, E:\PyCharm-workspace\Wiki\Period\Period.py
+missing module named org - imported by pickle, E:\PyCharm-workspace\Wiki\Period\Period.py
+missing module named readline - imported by cmd, code, pdb, E:\PyCharm-workspace\Wiki\Period\Period.py
+excluded module named _frozen_importlib - imported by importlib, importlib.abc, PyInstaller.loader.pyimod02_archive, E:\PyCharm-workspace\Wiki\Period\Period.py
+missing module named _frozen_importlib_external - imported by importlib._bootstrap, importlib, importlib.abc, E:\PyCharm-workspace\Wiki\Period\Period.py
+missing module named _winreg - imported by platform, E:\PyCharm-workspace\Wiki\Period\Period.py, pkg_resources._vendor.appdirs
+missing module named java - imported by platform, E:\PyCharm-workspace\Wiki\Period\Period.py
+missing module named 'java.lang' - imported by platform, xml.sax._exceptions, E:\PyCharm-workspace\Wiki\Period\Period.py
+missing module named vms_lib - imported by platform, E:\PyCharm-workspace\Wiki\Period\Period.py
+missing module named termios - imported by tty, getpass, E:\PyCharm-workspace\Wiki\Period\Period.py
+missing module named grp - imported by shutil, tarfile, E:\PyCharm-workspace\Wiki\Period\Period.py
+missing module named pwd - imported by posixpath, shutil, tarfile, http.server, webbrowser, distutils.util, netrc, getpass, psutil, E:\PyCharm-workspace\Wiki\Period\Period.py
+missing module named _dummy_threading - imported by dummy_threading, E:\PyCharm-workspace\Wiki\Period\Period.py
+missing module named 'org.python' - imported by copy, xml.sax, E:\PyCharm-workspace\Wiki\Period\Period.py
+missing module named fcntl - imported by gevent.fileobject, gevent.os, gevent.subprocess
+missing module named 'zope.interface' - imported by gevent._util
+missing module named zope - imported by gevent._util
+invalid module named gevent._util_py2 - imported by gevent._compat
+missing module named 'zope.event' - imported by gevent.events
+missing module named psutil._psutil_aix - imported by psutil, psutil._psaix
+missing module named psutil._psutil_sunos - imported by psutil, psutil._pssunos
+missing module named psutil._psutil_bsd - imported by psutil, psutil._psbsd
+missing module named psutil._psutil_osx - imported by psutil, psutil._psosx
+missing module named _psutil_linux - imported by psutil
+missing module named psutil._psutil_posix - imported by psutil, psutil._pslinux, psutil._psosx, psutil._psbsd, psutil._pssunos, psutil._psaix
+missing module named _continuation - imported by gevent.greenlet
+missing module named cPickle - imported by gevent._tblib
+missing module named cStringIO - imported by cPickle
+missing module named copy_reg - imported by gevent._tblib, cPickle, cStringIO
+missing module named __pypy__ - imported by gevent._tblib
+missing module named Queue - imported by gevent.queue
